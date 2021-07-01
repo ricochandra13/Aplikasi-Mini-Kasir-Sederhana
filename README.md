@@ -13,10 +13,9 @@
 
 ## Bahan - Bahan
 
-```bash
-NETBEANS    : <a href="https://netbeans.apache.org/download/index.html"> Click Here </a>
-XAMPP       : <a href="https://www.apachefriends.org/download.html"> Click Here </a>
-```
+NETBEANS    : [Click Here](https://netbeans.apache.org/download/index.html)
+XAMPP       : [Click Here](https://www.apachefriends.org/download.html)
+
 
 ## Documentasi
 
