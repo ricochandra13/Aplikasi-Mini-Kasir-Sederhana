@@ -13,7 +13,7 @@
 
 ## Bahan - Bahan
 
-NETBEANS    : [Click Here](https://netbeans.apache.org/download/index.html)
+NETBEANS    : [Click Here](https://netbeans.apache.org/download/index.html)<br>
 XAMPP       : [Click Here](https://www.apachefriends.org/download.html)
 
 
