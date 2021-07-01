@@ -20,6 +20,13 @@ XAMPP       : <a href="https://www.apachefriends.org/download.html"> Click Here 
 
 ## Documentasi
 
-![login](https://github.com/spraycompany/Aplikasi-Mini-Kasir-Sederhana/blob/main/image/login.png)
 ![order](https://github.com/spraycompany/Aplikasi-Mini-Kasir-Sederhana/blob/main/image/order.png)
-![admin](https://github.com/spraycompany/Aplikasi-Mini-Kasir-Sederhana/blob/main/image/admin.png)
+
+## Contributors
+Stisla is better because of the [contributors](https://github.com/stisla/stisla/graphs/contributors). Thank them too.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/napanapad"><img src="https://avatars.githubusercontent.com/u/85068724?v=4" width="100px;" alt=""/><br /><sub><b>Nurul Aulia Dewi</b></sub></a><br /><a href="#design-nurulaulia" title="Design">🎨</a></td>
+  </tr>
+</table>
