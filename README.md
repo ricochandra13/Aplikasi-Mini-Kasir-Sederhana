@@ -7,7 +7,7 @@
 <h1 align="center">Spray Company</h1>
 
 <p>
-  Aplikasi Mini Kasir Sederhana menggunakan `Netbeans` & `MySQL` dengan bahasa pemrograman `Java`
+  Aplikasi Mini Kasir Sederhana menggunakan ``Netbeans`` & ``MySQL`` dengan bahasa pemrograman ``Java``
 </p>
 <br>
 
